@@ -1,4 +1,4 @@
-## Hi, I'm Srujan (blck)
+## Hi, I'm Srujan Manjunath Shapur
 
 **Materials & Mechanical Engineer** | M.Sc. Metallic Materials Technology @ TU Bergakademie Freiberg
 
