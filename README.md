@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Srujan (blck)
 
-<!--
-**BlckICE/BlckICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Materials & Mechanical Engineer** | M.Sc. Metallic Materials Technology @ TU Bergakademie Freiberg
 
-Here are some ideas to get you started:
+Background in metal forming, steel production, extractive metallurgy, and FEM-based simulation (ABAQUS, Altair HyperMesh/EDEM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building toward AI-driven microstructure prediction and process optimization in metal forming.
+
+Previously Steering Head for VEGA Racing's Formula Student team (3rd place, Formula Green) - FEM/SolidWorks-based steering system design.
+
+System Test Engineer at Suraksha Enterprises - mechanical/system fault diagnosis, junior engineer training.
+
+Based in Freiberg, Germany. LinkedIn: https://www.linkedin.com/in/srujanmanjunathshapur
+
+First AI/ML project (predicting a material/process outcome from forming parameters) is in progress.
